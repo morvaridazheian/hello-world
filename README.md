@@ -1,5 +1,5 @@
 # hello-world
-Just another hello-world code :D
+Just another hello-world
 
 Hi!!
 
